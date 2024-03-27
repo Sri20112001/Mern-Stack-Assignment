@@ -1,0 +1,23 @@
+TAILWIND TOP 15 PROPERTIES 
+
+--> COLOR - text-red-50 or text-[#000]
+
+--> Font-family - font-serif or font-['Poppins']
+
+--> Font-size - text-lg or text-[50px]
+
+--> Font-weight - font-medium or font-[500]
+
+--> Text-decoration - decoration-1
+
+--> Text-algin - text-end , text-center
+
+--> Background - bg-red-500 or bg-[#000]
+
+--> Width - w-5 or w-[500px]
+
+--> height - h-5 or h-[500px]
+
+--> margin - m-5 or m-[500px]
+
+--> border - border-red-500 or border-[#000]
